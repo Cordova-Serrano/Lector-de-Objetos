@@ -1,0 +1,13 @@
+﻿  Lector de Objetos.cpp
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(159,16): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(161,16): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(163,16): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(169,9): warning C4101: 'vEntero': variable local sin referencia
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(200,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(209,21): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(230,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(237,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(243,17): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(256,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Lector de Objetos.cpp(260,17): warning C4018: '<': no coinciden signed/unsigned
+  Lector de Objetos.vcxproj -> F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Lector de Objetos\Debug\Lector de Objetos.exe
